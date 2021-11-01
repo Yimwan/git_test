@@ -1,5 +1,5 @@
 # git_test
 
-it's Friday.
+we should do some power cycle tests today
 
-it's a sunny day.
+and the replacement of bracket should be done ASAP
